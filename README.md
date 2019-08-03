@@ -2,11 +2,17 @@
 Machine Learning Algorithm.
 
 1.```Exploratory data analysis(EDA)```
+
 2.```Linear Regression```
+
 3.```Logistic Regression```
+
 4.```Naive Bayes```
+
 5.```SVM(Support vector machine)```
+
 6.```Decision tree```
+
 7.```Random Forest```
 
 
