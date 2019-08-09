@@ -19,7 +19,11 @@ Machine Learning Algorithm.
 
 ## How to use this repo
 
-Each algorithm has 2 File `.py` and `.ipynb`
+Each algorithm has 2 File
+
+1. `.py` 
+
+2. `.ipynb`
 
 
 ### Testing the Algorithm
