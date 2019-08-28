@@ -36,5 +36,6 @@ For Testing the algorithm you need to execute the file
 If you want to Run in `jupyter notebook` open the file.
 
 1. Under `Cell` Tab.
+
 2. Click `Run Cells`.
 
