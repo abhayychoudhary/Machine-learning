@@ -1,6 +1,7 @@
 # Machine-learning
 Machine Learning Algorithm.
 
+
 1.```Exploratory data analysis(EDA)```
 
 2.```Linear Regression```
