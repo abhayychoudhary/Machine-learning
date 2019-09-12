@@ -1,7 +1,6 @@
 # Machine-learning
 Machine Learning Algorithm.
 
-
 1.```Exploratory data analysis(EDA)```
 
 2.```Linear Regression```
@@ -15,8 +14,6 @@ Machine Learning Algorithm.
 6.```Decision tree```
 
 7.```Random Forest```
-
-
 
 ## How to use this repo
 
